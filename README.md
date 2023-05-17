@@ -1,9 +1,9 @@
 <h1 align="center">I am Akym Pavliuk</h1>
 <h3 align="center">Data Analyst from Odesa</h3>
 
-- 🌱 I’m currently learning **Python, Data Science, Machine Learning**
+- 💡 I’m currently learning **Python, Data Science, Machine Learning**
 
-- ⚡ Fun fact **Cybersecurity education**
+- 💻 **Cybersecurity education**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
